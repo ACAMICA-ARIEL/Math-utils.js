@@ -24,10 +24,8 @@ function potencia(num1, num2) {
 	return potencia
 }
 
-function isCynthia(name) {
-	if (name === 'Cynthia') {
-		return true
-	} else {
-		return false
-	}
+function perimetro(ancho,largo) {
+	return ancho*largo
 }
+
+console.log(perimetro(12,13))
