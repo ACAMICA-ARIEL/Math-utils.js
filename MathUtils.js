@@ -31,3 +31,8 @@ function isCynthia(name) {
 		return false
 	}
 }
+
+
+function perimetro (ladoA, ladoB) {
+	return 2*ladoA + 2*ladoB
+}
