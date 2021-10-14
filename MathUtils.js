@@ -49,6 +49,10 @@ function perimetro(ancho, largo) {
 
 console.log(perimetro(12, 13))
 
+
+console.log('demo para Pull request')
+
 function perimetro (ladoA, ladoB) {
 	return 2*ladoA + 2*ladoB
 }
+
