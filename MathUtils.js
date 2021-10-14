@@ -27,3 +27,8 @@ function potencia(num1, num2) {
 function raizCuadrada(num) {
 	return Math.sqrt(num)
 }
+
+function perimetro(num1, num2){
+	let perimetro = (num1*2)+(num2*2)
+	return perimetro;
+}
